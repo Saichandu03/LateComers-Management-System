@@ -10,7 +10,11 @@
 
 With intuitive dashboards, intelligent suspension tracking, and scalable bulk upload capabilities, the platform ensures institutions maintain discipline, transparency, and operational efficiency.
 
-**🔗 Live Demo**: [Late Comers System](https://adityauniversity.in/latecomers/login)
+---
+
+## 🌐 Live Demo
+
+**🔗 [View the Live Project](https://adityauniversity.in/latecomers/login)**
 
 ---
 
