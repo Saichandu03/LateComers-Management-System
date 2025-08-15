@@ -16,6 +16,11 @@ With intuitive dashboards, intelligent suspension tracking, and scalable bulk up
 
 **🔗 [View the Live Project](https://adityauniversity.in/latecomers/login)**
 
+## 🎬 Vedio Demo
+
+**🔗 [Click here for Vedio Demo of the project](https://drive.google.com/file/d/1rw3luluzQrQv_VmQ4vSl93mTyhXCxBR9/view?usp=sharing)**
+
+
 ---
 
 
